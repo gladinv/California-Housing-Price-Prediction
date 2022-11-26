@@ -28,18 +28,23 @@ Analysis Tasks to be performed:
 Read the “housing.csv” file from the folder into the program.
 Print first few rows of this data.
 Extract input (X) and output (Y) data from the dataset.
+
 2. Handle missing values :
 
 Fill the missing values with the mean of the respective column.
+
 3. Encode categorical data :
 
 Convert categorical column in the dataset to numerical data.
+
 4. Split the dataset : 
 
 Split the data into 80% training dataset and 20% test dataset.
+
 5. Standardize data :
 
 Standardize training and test datasets.
+
 6. Perform Linear Regression : 
 
 Perform Linear Regression on training data.
